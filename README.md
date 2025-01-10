@@ -1,0 +1,2 @@
+# Machine Learning Model for Customer Churn Prediction
+ his project provides a web application for predicting customer churn using machine learning techniques. The application allows users to input various features related to a customer, such as tenure, contract type, and service usage, and receive predictions on whether the customer is likely to churn along with the confidence percentage of the prediction.
