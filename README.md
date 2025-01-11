@@ -15,6 +15,8 @@
  
 ### 2. Model Development:
  Initially implemented a Decision Tree Classifier to predict churn.
+ The dataset was highly imbalanced, which significantly affected the model's performance. To address this, applied SMOTEENN (a combination of SMOTE and Edited Nearest Neighbors) to balance the dataset by 
+ oversampling the minority class and cleaning overlapping data points.
  Improved the model by switching to a Random Forest Classifier, which performed slightly better in terms of accuracy and generalization.
  Conducted hyperparameter tuning for the Random Forest model to further enhance its performance.
 
