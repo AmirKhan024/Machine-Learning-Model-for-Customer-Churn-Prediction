@@ -1,13 +1,15 @@
 # Machine Learning Model for Customer Churn Prediction
- This project provides a web application for predicting customer churn using machine learning techniques. The application allows users to input various features related to a customer, such as tenure, contract type, and service usage, and receive predictions on whether the customer is likely to churn along with the confidence percentage of the prediction.
+ This project provides a comprehensive customer churn prediction solution using machine learning techniques and advanced analytics visualization. The web application allows users to input various customer features such as tenure, contract type, service usage, payment methods, and charges, then processes these inputs through trained machine learning models to deliver binary churn predictions along with confidence percentages in real-time. Additionally, a Power BI dashboard has been developed to provide business intelligence with interactive visualizations of churn patterns, customer segmentation analysis, KPIs for retention, trend analysis, and actionable insights for strategic decision-making, creating an integrated solution that empowers businesses to proactively identify at-risk customers and improve retention strategies.
 
 ## Hosted Web Application
  The project is hosted online at the following link:
  [Visit](https://amirkhan024.pythonanywhere.com/)
 
+### Power BI Dashboard : 
 
-![image](https://github.com/user-attachments/assets/f94abec0-600e-4003-960c-799c593d99b3)
+![churn_telecom_first](https://github.com/user-attachments/assets/8dfedac0-80a2-4336-803a-8274f35b0087)
 
+![churn_telecom_second](https://github.com/user-attachments/assets/40c12dd1-d69e-4b00-84e4-e9cf45432e59)
 
 ## Objective 
  The objective of this project is to analyze a telecommunications customer churn dataset and predict whether a customer is likely to churn (leave the service) based on various features. By employing advanced machine learning techniques, this project aims to provide actionable insights and improve customer retention strategies for the telecom industry.
@@ -35,10 +37,6 @@
 ### 5. Power BI Integration
  Created a Power BI report to visually represent the prediction results. The report includes interactive dashboards that help identify customers who are likely to churn based on model predictions, allowing for     deeper insights and better decision-making.
 
-### Power BI Dashboard : 
 
-![churn_telecom_first](https://github.com/user-attachments/assets/8dfedac0-80a2-4336-803a-8274f35b0087)
-
-![churn_telecom_second](https://github.com/user-attachments/assets/40c12dd1-d69e-4b00-84e4-e9cf45432e59)
 
 
